@@ -30,7 +30,7 @@ elif lettergrade1 == "F":
   print("Grade point for course 1 is: 0.0")
 else: 
   gradepoint1 = 0.0
-  print("Grade point for course 3 is: 0.0")
+  print("Grade point for course 1 is: 0.0")
 
 
 lettergrade2 = input("Enter your course 2 letter grade: ")
